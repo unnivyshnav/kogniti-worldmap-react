@@ -1,0 +1,13 @@
+.App {
+  height: 100vh;
+}
+
+.svg {
+  position: absolute;
+  top: 8vw;
+}
+
+img {
+  width: 99vw;
+  height: 100%;
+}
